@@ -1,8 +1,7 @@
- ---
- layout: archive
- permalink: /Data-Visualization/
- title: Data Visualization Posts by Tags
- author_profile: true
- 
- ---
- salam
+---
+title: Data Visualization
+permalink: /Data-Visualization/
+
+---
+
+Data scientist am I.
