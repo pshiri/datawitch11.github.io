@@ -1,8 +1,9 @@
 ---
- title: "about"
- permalink: /about/
- image: "/images/wallpaper.jpeg"
- 
+title: About
+permalink: /about/
+ header:
+    image: "/images/wallpaper.jpeg"
+    
 ---
 
-I am a data scientist.
+I love data science.
