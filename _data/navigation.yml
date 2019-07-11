@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Visualization"
     url: /Data-Visualization/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Machine Learning"
+    url: /Machine-Learning/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
