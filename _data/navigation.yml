@@ -4,13 +4,10 @@ main:
     url: /about/
   - title: "Resume"
     url: /Resume/
-  - title: "Projects"
-    url: /Projects/
-    sublinks:
-    - title: "Exploratory Data Analysis"
-      url: /Exploratory-Data-Analysis/
-    - title: "Machine Learning: Regression"
-      url: /Machine-Learning-Regression
+  - title: "Exploratory Data Analysis"
+    url: /Exploratory-Data-Analysis/
+  - title: "Machine Learning: Regression"
+    url: /Machine-Learning-Regression
     #- title: separator
   #  - title: Customer Support
   #    url: /customer-support.html
