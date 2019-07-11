@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /Resume/
   - title: "Exploratory Data Analysis"
     url: /Exploratory-Data-Analysis/
+  - title: "Resume"
+    url: /Resume/
   - title: "Machine Learning: Regression"
     url: /Machine-Learning-Regression
     #- title: separator
