@@ -9,7 +9,9 @@ main:
   - title: "Machine Learning: Regression"
     url: /Machine-Learning-Regression
     #- title: separator
-  #  - title: Customer Support
+  - title: "Customer":
+    - Tab 1: "tab.md"
+    - Tab 2: "tab2.md"
   #    url: /customer-support.html
   # - title: "Sample Collections"
   #   url: /collection-archive/
